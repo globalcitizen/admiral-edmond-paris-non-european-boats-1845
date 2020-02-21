@@ -2,7 +2,7 @@
 
 This classic work, produced circa 1845 by Admiral Edmond Paris and published by the French Naval authority of the period, discusses traditional naval construction methods of non European peoples, covering Africa, Arabia, South Asia, Southeast Asia, East Asia and the Pacific including Micronesia, Melanesia, Polynesia and Alaska.
 
-A beautiful work and perhaps something of a prelude to France's dominance in multihull design, it is organized in to two tomes.
+A beautiful work and perhaps something of a prelude to France's enthusiasm for multihulls, it is organized in to two tomes.
 
  * The first is the written portion, or *essai*. Only very few pages are reproduced here.
  * The second are the image plates, or *atlas*. All pages are reproduced here.
