@@ -4,8 +4,8 @@ This classic work, produced circa 1845 by Admiral Edmond Paris and published by 
 
 A beautiful work and perhaps something of a prelude to France's enthusiasm for multihulls, it is organized in to two tomes.
 
- * The first is the written portion, or *essai*. Only very few pages are reproduced here.
- * The second are the image plates, or *atlas*. All pages are reproduced here.
+ * [tome-1-essai](https://github.com/globalcitizen/admiral-edmond-paris-non-european-boats-1845/tree/master/tome-1-essai) is the written portion, or *essai*. Only very few pages are reproduced here.
+ * [tome-2-atlas](https://github.com/globalcitizen/admiral-edmond-paris-non-european-boats-1845/tree/master/tome-2-atlas) is the image plates, or *atlas*. All pages are reproduced here.
 
 ## Notes
 
